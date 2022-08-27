@@ -1,7 +1,7 @@
 # PSD-on-MCBJ-chip
 Analyze flicker noise power spectrum density (PSD) on MCBJ chip
 
-ca.:
+cf.
 
 1.Nano Lett. 15, 4143-4149, doi:10.1021/acs.nanolett.5b01270 (2015).
 
